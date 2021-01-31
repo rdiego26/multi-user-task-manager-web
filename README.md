@@ -54,3 +54,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 - Implement logout (still pending)
 - Implement protection for private routes
 - Write unit tests for components
+- Improve UI
