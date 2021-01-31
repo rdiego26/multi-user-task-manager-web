@@ -52,6 +52,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 - I was unsure whether to make the frontend coupled with the backend (because of the design being simple) and what I would use on the frontend, I ended up choosing to decouple the systems and use some technologies that I don't have much experience to explore a little more.
 - Based in some boiler plates, like [react-hooks-redux-registration-login-example](https://github.com/cornflourblue/react-hooks-redux-registration-login-example/tree/master/src) and [react-hooks-routing-auth-starter](https://github.com/iqbal125/react-hooks-routing-auth-starter) 
 - Implement logout (still pending)
-- Implement protection for private routes
+- Implement protection for private routes (still pending)
+- Implement edit project name (still pending)
 - Write unit tests for components
 - Improve UI
